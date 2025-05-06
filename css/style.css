@@ -61,7 +61,7 @@ body {
 
 .home {
     height: 100vh;
-    background: url('../img/home.jpg') no-repeat;
+    background: url('./img/home.jpg') no-repeat;
     background-size: 50%;
     background-position: right 10% top 50%;;
     display: flex;
